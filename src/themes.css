@@ -1,0 +1,27 @@
+.lightMode {
+  background-color: #fff;
+  color: #333;
+}
+
+.darkMode {
+  background-color: #1a1919;
+  color: #999;
+}
+
+.darkMode nav {
+  background-color: #1b2938;
+}
+
+nav {
+  width: 100%;
+  display: flex;
+  background-color: steelblue;
+  padding: 20px;
+}
+
+.toggleContainer {
+  background-color: #333;
+  display: flex;
+}
+
+
